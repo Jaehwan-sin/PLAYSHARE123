@@ -1,6 +1,11 @@
 # **PLAYSHARE**
 <img style="width = 1400px;" alt="playshare" src="https://github.com/Jaehwan-sin/PLAYSHARE/assets/84274952/aafd77a0-b16c-466f-bfd0-43940980b8ac">
 
+## 목차
+- [프로젝트 소개](#프로젝트-소개)
+- [개발 환경](#개발환경)
+- [화면 구성](#화면-구성)
+
 ## **프로젝트 소개**
 플레이리스트를 들을 때 보통 유튜브나 음악 플랫폼에서 듣게 되면서 
 다른 사람들과 의견을 나누며 소통하기 불편하다고 생각해서
@@ -35,12 +40,13 @@
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 <br>
 
+## 화면 구성 
 #### 메인 페이지
-<img style="width: 1400px;" src="https://github.com/Jaehwan-sin/PLAYSHARE/assets/84274952/6c52efe8-a666-4b85-8835-069539e807ed"/>
+<img style="width: 1400px;" src="https://github.com/Jaehwan-sin/PLAYSHARE/assets/84274952/6c52efe8-a666-4b85-8835-069539e807ed"/> <br>
 #### **플레이리스트 등록**
-<img style="width: 1400px;" src="https://github.com/Jaehwan-sin/PLAYSHARE/assets/84274952/6123a29f-812a-420b-96a4-6bbdcf9ab184"/>
+<img style="width: 1400px;" src="https://github.com/Jaehwan-sin/PLAYSHARE/assets/84274952/6123a29f-812a-420b-96a4-6bbdcf9ab184"/> <br>
 #### **플레이리스트 목록**
-<img style="width: 1400px;" src="https://github.com/Jaehwan-sin/PLAYSHARE/assets/84274952/4423466c-ff12-46ca-a410-214f4224fb8d"/>
+<img style="width: 1400px;" src="https://github.com/Jaehwan-sin/PLAYSHARE/assets/84274952/4423466c-ff12-46ca-a410-214f4224fb8d"/> <br>
 #### **플레이리스트 상세보기**
 <img style="width: 1400px;" src="https://github.com/Jaehwan-sin/PLAYSHARE/assets/84274952/816c77c9-31d8-43ec-b844-e1c5d40c069f"/>
 
