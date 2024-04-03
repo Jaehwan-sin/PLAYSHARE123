@@ -1,5 +1,5 @@
 # **PLAYSHARE**
-<img style="width = 1400px;" src="https://github.com/Jaehwan-sin/PLAYSHARE/assets/84274952/dc13e3aa-5f9d-4860-88c5-55628d274110"/>
+<img style="width = 1400px;" alt="playshare" src="https://github.com/Jaehwan-sin/PLAYSHARE/assets/84274952/aafd77a0-b16c-466f-bfd0-43940980b8ac">
 
 ## **프로젝트 소개**
 플레이리스트를 들을 때 보통 유튜브나 음악 플랫폼에서 듣게 되면서 
@@ -12,7 +12,7 @@
 **개발 기간** :	2024년 2월 1일 ~ 2024년 3월 14일
 
 ## 화면 디자인
-<img src="" />
+<img style="width = 1400px;" alt="화면 디자인" src="https://github.com/Jaehwan-sin/PLAYSHARE/assets/84274952/3448ff2a-1083-48b5-9fcf-e33cfd5d70a5">
 
 ## 📺 개발환경
 
