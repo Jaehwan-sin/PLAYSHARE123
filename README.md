@@ -37,30 +37,10 @@
 
 #### 메인 페이지
 <img style="width: 1400px;" src="https://github.com/Jaehwan-sin/PLAYSHARE/assets/84274952/6c52efe8-a666-4b85-8835-069539e807ed"/>
-#### 플레이리스트 등록
+#### **플레이리스트 등록**
 <img style="width: 1400px;" src="https://github.com/Jaehwan-sin/PLAYSHARE/assets/84274952/6123a29f-812a-420b-96a4-6bbdcf9ab184"/>
-#### 플레이리스트 목록
+#### **플레이리스트 목록**
 <img style="width: 1400px;" src="https://github.com/Jaehwan-sin/PLAYSHARE/assets/84274952/4423466c-ff12-46ca-a410-214f4224fb8d"/>
-#### 플레이리스트 상세보기
+#### **플레이리스트 상세보기**
 <img style="width: 1400px;" src="https://github.com/Jaehwan-sin/PLAYSHARE/assets/84274952/816c77c9-31d8-43ec-b844-e1c5d40c069f"/>
-
-
-| 메인 페이지 | 
-| --- | 
-| <img style="width: 700px; height: 800px;" src="https://github.com/Jaehwan-sin/PLAYSHARE/assets/84274952/6c52efe8-a666-4b85-8835-069539e807ed"/> | 
-| **플레이리스트 등록** | 
-| <img style="width= 700px; height: 800px;" alt="플레이리스트 추가하기" src="https://github.com/Jaehwan-sin/PLAYSHARE/assets/84274952/6123a29f-812a-420b-96a4-6bbdcf9ab184"> | 
-| **플레이리스트 목록** | 
-| <img style="width: 700px; height: 800px;" src="https://github.com/Jaehwan-sin/PLAYSHARE/assets/84274952/4423466c-ff12-46ca-a410-214f4224fb8d"/> | 
-| **플레이리스트 상세보기** | 
-| <img style="width= 700px; height: 800px;" alt="플레이리스트 상세보기" src="https://github.com/Jaehwan-sin/PLAYSHARE/assets/84274952/816c77c9-31d8-43ec-b844-e1c5d40c069f"> | 
-
-
-
-| 메인 페이지 | **플레이리스트 등록** | 
-| --- | --- | 
-| <img style="width: 400px; height: 600px;" src="https://github.com/Jaehwan-sin/PLAYSHARE/assets/84274952/6c52efe8-a666-4b85-8835-069539e807ed"/> | <img style="width= 400px; height: 600px;" alt="플레이리스트 추가하기" src="https://github.com/Jaehwan-sin/PLAYSHARE/assets/84274952/6123a29f-812a-420b-96a4-6bbdcf9ab184"> | 
-| **플레이리스트 목록** | **플레이리스트 상세보기** | 
-| <img style="width: 400px; height: 600px;" src="https://github.com/Jaehwan-sin/PLAYSHARE/assets/84274952/4423466c-ff12-46ca-a410-214f4224fb8d"/>  | <img style="width: 400px; height: 600px;" src="https://github.com/Jaehwan-sin/PLAYSHARE/assets/84274952/816c77c9-31d8-43ec-b844-e1c5d40c069f"/>  | 
-
 
