@@ -1,5 +1,5 @@
 # **PLAYSHARE**
-<img style="width = 1200px;" src="https://github.com/Jaehwan-sin/PLAYSHARE/assets/84274952/dc13e3aa-5f9d-4860-88c5-55628d274110"/>
+<img style="width = 1400px;" src="https://github.com/Jaehwan-sin/PLAYSHARE/assets/84274952/dc13e3aa-5f9d-4860-88c5-55628d274110"/>
 
 ## **프로젝트 소개**
 플레이리스트를 들을 때 보통 유튜브나 음악 플랫폼에서 듣게 되면서 
