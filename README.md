@@ -33,9 +33,18 @@
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+<br>
 
-| 메인페이지 | 플레이리스트 목록 
-| --- | --- 
-| <img style="width = 300px;" src="https://github.com/Jaehwan-sin/PLAYSHARE/assets/84274952/6c52efe8-a666-4b85-8835-069539e807ed"/> | <img style="width = 300px;" src="https://github.com/Jaehwan-sin/PLAYSHARE/assets/84274952/4423466c-ff12-46ca-a410-214f4224fb8d"/>  
-| 4 | 5 
-| 7 | 8 
+
+| 메인 페이지 | 
+| --- | 
+| <img style="width: 700px; height: 800px;" src="https://github.com/Jaehwan-sin/PLAYSHARE/assets/84274952/6c52efe8-a666-4b85-8835-069539e807ed"/> | 
+| **플레이리스트 등록** | 
+| <img style="width= 700px; height: 800px;" alt="플레이리스트 추가하기" src="https://github.com/Jaehwan-sin/PLAYSHARE/assets/84274952/6123a29f-812a-420b-96a4-6bbdcf9ab184"> | 
+| **플레이리스트 목록** | 
+| <img style="width: 700px; height: 800px;" src="https://github.com/Jaehwan-sin/PLAYSHARE/assets/84274952/4423466c-ff12-46ca-a410-214f4224fb8d"/> | 
+| **플레이리스트 상세보기** | 
+| <img style="width= 700px; height: 800px;" alt="플레이리스트 상세보기" src="https://github.com/Jaehwan-sin/PLAYSHARE/assets/84274952/816c77c9-31d8-43ec-b844-e1c5d40c069f"> | 
+
+
+
